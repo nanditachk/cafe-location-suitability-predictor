@@ -1,0 +1,1 @@
+{"models": ["RandomForest", "XGBoost", "AHP"], "target": "success_index", "feature_count": 24}

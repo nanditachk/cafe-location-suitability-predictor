@@ -1,0 +1,22 @@
+# ENV
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Data files
+*.tif
+backend/data/
+
+
+# Flutter
+build/
+.dart_tool/
+.idea/
+android/.gradle/
+
+# OS
+.DS_Store
+Thumbs.db
