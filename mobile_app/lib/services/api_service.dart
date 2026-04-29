@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class ApiService {
-  static const String baseUrl = "http://10.45.33.21:8000";
+  static const String baseUrl = "http://10.28.27.220:8000";
   // change if real phone
 
   static Future<Map<String, dynamic>> predict(
